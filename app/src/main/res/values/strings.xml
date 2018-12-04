@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Color Mixer</string>
+
+    <string name="red">R</string>
+    <string name="green">G</string>
+    <string name="blue">B</string>
+</resources>
